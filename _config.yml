@@ -24,9 +24,9 @@ author:
   avatar           : "wechat.png"
   name             : "Xinyu Liu"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D. student at University of Virginia"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "A Ph.D. student at University of Virginia"
+  #location         : "Earth"
+  employer         : "University of Virginia"
   uri              : # URL
   email            : "xinyuliu@virginia.edu" 
 
