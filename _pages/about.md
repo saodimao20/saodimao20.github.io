@@ -7,12 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a first-year Ph.D. student in the Department of Computer Science at the University of Virginia, where I'm currently working with Shangtong Zhang in [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab)
-
-
-News
-------
-July. 2024 School of Mathematical Science. 
+Hi, I am a first-year Ph.D. student in the Department of Computer Science at the University of Virginia. I am fortunate to be  advised by [Prof. Shangtong Zhang](http://shangtongzhang.github.io) and join [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab). I received my Bachelor degree in School of Mathematical Science, Peking University, where I was supervised by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/group.html).
 
 Publications
 ======
@@ -20,10 +15,10 @@ Publications
 [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
 Xiaochi Qian*, Zixuan Xie*, Xinyu Liu*, Shangtong Zhang
 
-Site-wide configuration
+Honor and Rewards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
+1st class in No.14 Chinese College Mathematics Competition  
+Second Award in 35th Chinese Mathematical Olympiad (Final)(2019)
 
 
 **Markdown generator**
