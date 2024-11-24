@@ -17,5 +17,7 @@ Xiaochi Qian\*, Zixuan Xie\*, Xinyu Liu\*, **Shangtong Zhang**
 
 Honor and Rewards
 ------
-1st class in No.14 Chinese College Mathematics Competition  
-Second Award in 35th Chinese Mathematical Olympiad (Final)(2019)
+* 1st class in No.14 Chinese College Mathematics Competition  
+* Second Award in 35th Chinese Mathematical Olympiad (Final)(2019)
+
+Please connect me using email xinyuliu@virginia.edu. 
