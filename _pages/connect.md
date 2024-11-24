@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Others"
+title: " "
 permalink: /connect/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Connect me (ios phone doesn't show my email address in homepage)
+Connect me
 ======
-* Email: xinyuliu@virginia.edu
+* Email: xinyuliu@virginia.edu (in case your phone doesn't show my email address in homepage)
 
 Misc
 ======
