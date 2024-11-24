@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in School of Mathematical Science, Peking University, 2024
+  * GPA: 3.4/4.0
+  * Major courses: Mathematical Analysis; Advanced Algebra; Geometry; Function of Real Variables; Functional Analysis; Partial Difference Equations; Basis of Algebraic Geometry; Differential manifold and topology(H); Foundations of Machine learning; Probability theory(H); Applied Stochastis Processes(Honor); Mathematical statistics, etc.
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dynamic System (Jun.2022-Feb.2023)
+  * I participated in research of Dynamic System advised by Professor Li Zhiqiang at PKU starting from summer holiday, 2022. 
+  * I read 'Expanding Thurston Maps' by Bonk&Meyer, 'Conformal Fractals – Ergodic Theory Methods' by Urbanski and the preceding chapters of 'Extremes and Recurrence in Dynamical Systems'.
+  * In group meeting, I shared chapter 7-9 of the book 'Conformal Fractals'.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autonomous Robots Lab (ARL) at Peking University (Feb.2023-May.2023)
+  * I joined the Autonomous Robots Lab at Peking University advised by Professor Liu Chang. 
+  * I attended the weekly group meeting, focused on helping other classmates to solve their math problems in their projects. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mathematics in Lean
+  * I attended group seminar and winter school advised by Professor Zaiwen Wen.
+  * I worked on several properties in complex analysis and successfully finished the proof in language lean4.
+
+Intern experience
+======
+* Summer 2023: Founder Securities
+  * Analysis real data of Chiniese stocks and communicate with my supervisor, using models like xgboost and neural network.
+  * Studied how share options and derivatives work in different countries.
+  * Supervisor: Song Hao
   
-Skills
+Skills and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technologies: Python, C&C++, Latex, Lean
+* Language: Mandarin, English
+* No.14 Chinese College Mathematics Competition, 1st class
+* Second Award, 35th Chinese Mathematical Olympiad(Final)(2019)
+* Gold Medal in Olympiad of Metropolities, 2019
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
