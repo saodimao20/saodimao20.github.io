@@ -26,9 +26,9 @@ Research experience
   * I joined the Autonomous Robots Lab at Peking University advised by Professor Liu Chang. 
   * I attended the weekly group meeting, focused on helping other classmates to solve their math problems in their projects. 
 
-* Mathematics in Lean
+* Mathematics in Lean(Aug.2023-Jun.2024)
   * I attended group seminar and winter school advised by Professor Zaiwen Wen.
-  * I worked on several properties in complex analysis and successfully finished the proof in language lean4.
+  * I worked on several basic properties in complex analysis and successfully finished their proof in language lean4.
 
 Intern experience
 ======

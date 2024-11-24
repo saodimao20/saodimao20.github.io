@@ -13,7 +13,7 @@ Publications
 ======
 
 [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
-Xiaochi Qian*, Zixuan Xie*, Xinyu Liu*, Shangtong Zhang
+Xiaochi Qian\*, Zixuan Xie\*, Xinyu Liu\*, **Shangtong Zhang**
 
 Honor and Rewards
 ------
