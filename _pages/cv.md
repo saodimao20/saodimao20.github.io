@@ -18,12 +18,12 @@ Education
 Research experience
 ======
 * Dynamic System (Jun.2022-Feb.2023)
-  * I participated in research of Dynamic System advised by Professor Li Zhiqiang at PKU starting from summer holiday, 2022. 
+  * I participated in research of Dynamic System advised by Professor Zhiqiang Li at PKU starting from summer holiday, 2022. 
   * I read 'Expanding Thurston Maps' by Bonk&Meyer, 'Conformal Fractals – Ergodic Theory Methods' by Urbanski and the preceding chapters of 'Extremes and Recurrence in Dynamical Systems'.
   * In group meeting, I shared chapter 7-9 of the book 'Conformal Fractals'.
 
 * Autonomous Robots Lab (ARL) at Peking University (Feb.2023-May.2023)
-  * I joined the Autonomous Robots Lab at Peking University advised by Professor Liu Chang. 
+  * I joined the Autonomous Robots Lab at Peking University advised by Professor Chang Liu. 
   * I attended the weekly group meeting, focused on helping other classmates to solve their math problems in their projects. 
 
 * Mathematics in Lean(Aug.2023-Jun.2024)
