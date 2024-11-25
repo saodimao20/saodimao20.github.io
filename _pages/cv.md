@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in School of Mathematical Science, Peking University, 2024
-  * GPA: 3.4/4.0
   * Major courses: Mathematical Analysis; Advanced Algebra; Geometry; Function of Real Variables; Functional Analysis; Partial Difference Equations; Basis of Algebraic Geometry; Differential manifold and topology(H); Foundations of Machine learning; Probability theory(H); Applied Stochastis Processes(Honor); Mathematical statistics, etc.
 
 Research experience
