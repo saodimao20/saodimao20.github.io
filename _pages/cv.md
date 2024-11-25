@@ -32,8 +32,8 @@ Research experience
 Intern experience
 ======
 * Summer 2023: Founder Securities
-  * Analysis real data of Chinese stocks and communicate with my supervisor, using models like xgboost and neural network.
-  * Studied how share options and derivatives work in different countries.
+  * Analyze real data of Chinese stocks and communicate with my supervisor, using models like xgboost and neural network.
+  * Study how share options and derivatives work in different countries.
   * Supervisor: Song Hao
   
 Skills and Awards
