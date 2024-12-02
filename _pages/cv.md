@@ -29,6 +29,9 @@ Research experience
   * I attended group seminar and winter school advised by Professor Zaiwen Wen.
   * I worked on several basic properties in complex analysis and successfully finished their proof in language lean4.
 
+* Sequential Intelligence Lab at University of Virginia(Aug.2024-Now)
+  * I'm proving bounds of reinforment learning algorithms under direction of Professor Shangtong Zhang.
+
 Intern experience
 ======
 * Summer 2023: Founder Securities
