@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Mathematical Science, Peking University, 2024
+* B.S. in School of Mathematical Science, Peking University, 2020-2024
   * Major courses: Mathematical Analysis; Advanced Algebra; Geometry; Function of Real Variables; Functional Analysis; Partial Difference Equations; Basis of Algebraic Geometry; Differential manifold and topology(H); Foundations of Machine learning; Probability theory(H); Applied Stochastis Processes(Honor); Mathematical statistics, etc.
+
+* PhD in Department of Computer Science in University of Virginia, 2024-Now
+  * Major courses: Natural Language Processing, Learning for Interactive Robots, etc.
+
 
 Research experience
 ======
