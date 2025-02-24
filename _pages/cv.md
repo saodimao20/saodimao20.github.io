@@ -11,45 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Mathematical Science, Peking University, 2020-2024
-  * Major courses: Mathematical Analysis; Advanced Algebra; Geometry; Function of Real Variables; Functional Analysis; Partial Difference Equations; Basis of Algebraic Geometry; Differential manifold and topology(H); Foundations of Machine learning; Probability theory(H); Applied Stochastis Processes(Honor); Mathematical statistics, etc.
+* PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
+  * Major courses: Natural Language Processing, Learning for Interactive Robots, Machine learning, Software logic, etc.
 
-* PhD student in Department of Computer Science in University of Virginia, 2024-Now
-  * Major courses: Natural Language Processing, Learning for Interactive Robots, etc.
+* B.S. in School of Mathematical Science, Peking University, Sep 2020 – Jul 2024
+  * Major courses: Mathematical Analysis; Probability Theory (H); Applied Stochastic Processes (Honor); Mathematical Statistics, etc.
 
 
 Research experience
 ======
-* Dynamic System (Jun.2022-Feb.2023)
-  * I participated in research of Dynamic System advised by Professor Zhiqiang Li at PKU starting from summer holiday, 2022. 
-  * I read 'Expanding Thurston Maps' by Bonk&Meyer, 'Conformal Fractals – Ergodic Theory Methods' by Urbanski and the preceding chapters of 'Extremes and Recurrence in Dynamical Systems'.
-  * In group meeting, I shared chapter 7-9 of the book 'Conformal Fractals'.
-
-* Autonomous Robots Lab (ARL) at Peking University (Feb.2023-May.2023)
-  * I joined the Autonomous Robots Lab at Peking University advised by Professor Chang Liu. 
-  * I attended the weekly group meeting, focused on helping other classmates to solve their math problems in their projects. 
+* Sequential Intelligence Lab at University of Virginia(Aug.2024-Now)
+  * Conducting theoretical research on convergence analysis of reinforcement learning algorithms under supervision of Prof. Shangtong Zhang
+  * Developing mathematical frameworks for proving $L^2$ and almost sure convergence of reinforcement learning methods
+  * Analyzing convergence rates of stochastic approximation algorithms with Markovian noise
 
 * Mathematics in Lean(Aug.2023-Jun.2024)
-  * I attended group seminar and winter school advised by Professor Zaiwen Wen.
-  * I worked on several basic properties in complex analysis and successfully finished their proof in language lean4.
+  * Led by Prof. Zaiwen Wen, formalized complex mathematical proofs using formal verification system lean4
+  * Implemented rigorous mathematical theorems in computer-assisted proof systems, focusing on complex analysis
 
-* Sequential Intelligence Lab at University of Virginia(Aug.2024-Now)
-  * I'm proving bounds of reinforcement learning algorithms under direction of Professor Shangtong Zhang.
+* Autonomous Robots Lab (ARL) at Peking University (Feb.2023-May.2023)
+  * Under supervision of Prof. Chang Liu at Autonomous Robots Lab
+  * Provided mathematical consultation for robotics research projects
+  * Applied optimization theory to improve robotic system performance
+ 
+* Dynamic System (Jun.2022-Feb.2023)
+  * Conducted research in dynamical systems theory under guidance of Prof. Zhiqiang Li
+  * Analyzed mathematical properties of expanding maps and conformal fractals
+  * Presented theoretical findings on conformal dynamics in research seminars
 
 Intern experience
 ======
 * Summer 2023: Founder Securities
-  * Analyze real data of Chinese stocks and communicate with my supervisor, using models like xgboost and neural network.
-  * Study how share options and derivatives work in different countries.
-  * Supervisor: Song Hao
+  * Developed theoretical models for financial markets under supervision of Dr. Song Hao
+  * Applied statistical learning theory to analyze market behavior
+  * Implemented and validated mathematical models for option pricing
   
 Skills and Awards
 ======
-* Technologies: Python, C&C++, Latex, Lean
+* Technologies: Python(3 years), C\&C++(1 year), Latex(3 years), lean4(2 years), Mathematica/MATLAB(2 years)
 * Language: Mandarin, English
-* No.14 Chinese College Mathematics Competition, 1st class
-* Second Award, 35th Chinese Mathematical Olympiad(Final)(2019)
-* Gold Medal in Olympiad of Metropolities, 2019
+* No.14 Chinese College Mathematics Competition, 1st class (National Level)
+* Second Prize, 35th Chinese Mathematical Olympiad Final Round (2019)
+* Gold Medal, Olympiad of Metropolities (2019)
 
 <!-- Publications
 ======
