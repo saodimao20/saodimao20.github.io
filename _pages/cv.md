@@ -54,7 +54,7 @@ Peer Review
   
 Skills and Awards
 ======
-* Technologies: Python(3 years), C\&C++(1 year), Latex(3 years), lean4(2 years), Mathematica/MATLAB(2 years)
+* Technologies: Python(3 years), C&C++(1 year), Latex(3 years), lean4(2 years), Mathematica/MATLAB(2 years)
 * Language: Mandarin, English
 * No.14 Chinese College Mathematics Competition, 1st class (National Level)
 * Second Prize, 35th Chinese Mathematical Olympiad Final Round (2019)
