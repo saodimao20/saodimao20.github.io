@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Find pdf version here](https://github.com/user-attachments/files/19623684/CV-3.pdf)
 
 {% include base_path %}
+[Find pdf version here](https://github.com/user-attachments/files/19623684/CV-3.pdf)
 
 Education
 ======
