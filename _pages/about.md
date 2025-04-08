@@ -18,10 +18,5 @@ Xiaochi Qian\*, Zixuan Xie\*, Xinyu Liu\*, **Shangtong Zhang**
 [Linear Q-Learning Does Not Diverge: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254)
 Xinyu Liu\*, Zixuan Xie\*, **Shangtong Zhang**
 
-Honor and Rewards
-------
-* 1st class in No.14 Chinese College Mathematics Competition  
-* Second Award in 35th Chinese Mathematical Olympiad (Final)(2019)
-* Gold Medal, Olympiad of Metropolities (2019)
 
 Please connect me via email xinyuliu@virginia.edu. 
