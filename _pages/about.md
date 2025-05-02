@@ -12,11 +12,12 @@ Hi! I am a first-year Ph.D. student in the Department of Computer Science at the
 Publications
 ======
 
+[ICML 2025][Linear Q-Learning Does Not Diverge: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254)
+Xinyu Liu\*, Zixuan Xie\*, **Shangtong Zhang**
+
 [Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
 Xiaochi Qian\*, Zixuan Xie\*, Xinyu Liu\*, **Shangtong Zhang**
 
-[Linear Q-Learning Does Not Diverge: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254)
-Xinyu Liu\*, Zixuan Xie\*, **Shangtong Zhang**
 
 
 Please connect me via email xinyuliu@virginia.edu. 
