@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Find pdf version here](https://github.com/user-attachments/files/20007241/CV-4.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/20111485/CV__Copy_-2.pdf)
 
 ======
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
