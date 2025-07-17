@@ -42,6 +42,17 @@ Intern experience
   * Applied statistical learning theory to analyze market behavior
   * Implemented and validated mathematical models for option pricing
  
+Publications
+======
+
+[Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://www.arxiv.org/abs/2411.13711)
+Zixuan Xie\*, Xinyu Liu\*, Rohan Chandra, **Shangtong Zhang**
+
+[ICML 2025][Linear Q-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254)
+Xinyu Liu\*, Zixuan Xie\*, **Shangtong Zhang**
+
+[Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
+Xiaochi Qian\*, Zixuan Xie\*, Xinyu Liu\*, **Shangtong Zhang**
 
 
 Peer Review
