@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Find pdf version here](https://github.com/user-attachments/files/20111485/CV__Copy_-2.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/21303583/CV-8.pdf)
 
 ======
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
@@ -21,14 +21,19 @@ redirect_from:
 
 Research experience
 ======
-* Sequential Intelligence Lab at University of Virginia(Aug.2024-Now)
+* Sequential Intelligence Lab at University of Virginia (Aug.2024-Now)
   * Conducting theoretical research on convergence analysis of reinforcement learning algorithms under supervision of Prof. Shangtong Zhang
   * Developing mathematical frameworks for proving $L^2$ and almost sure convergence of reinforcement learning methods
   * Analyzing convergence rates of stochastic approximation algorithms with Markovian noise
   
-* Mathematics in Lean(Aug.2023-Jun.2024)
+* Mathematics in Lean (Aug.2023-Jun.2024)
   * Led by Prof. Zaiwen Wen, formalized complex mathematical proofs using formal verification system lean4
   * Implemented rigorous mathematical theorems in computer-assisted proof systems, focusing on complex analysis
+ 
+* Autonomous Robots Lab (ARL) (Feb 2023 – May 2023)
+  * Under supervision of Prof. Chang Liu at Autonomous Robots Lab
+  * Provided mathematical consultation for robotics research
+  * Applied optimization theory to improve robotic system performance
  
 * Dynamic System (Jun.2022-Feb.2023)
   * Conducted research in dynamical systems theory under guidance of Prof. Zhiqiang Li
