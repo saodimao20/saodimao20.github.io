@@ -13,7 +13,7 @@ redirect_from:
 
 ======
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
-  * Major courses: Natural Language Processing, Software logic, etc.
+  * Major courses: Natural Language Processing, Learning for Interactive Robots, Machine learning, Software logic, etc.
 
 * B.S. in School of Mathematical Science, Peking University, Sep 2020 – Jul 2024
   * Major courses: Mathematical Analysis; Probability Theory (H); Applied Stochastic Processes (Honor); Mathematical Statistics, etc.
