@@ -25,7 +25,7 @@ Research experience
   * Conducting theoretical research on convergence analysis of reinforcement learning algorithms under supervision of Prof. Shangtong Zhang
   * Developing mathematical frameworks for proving $L^2$ and almost sure convergence of reinforcement learning methods
   * Analyzing convergence rates of stochastic approximation algorithms with Markovian noise
-
+  
 * Mathematics in Lean(Aug.2023-Jun.2024)
   * Led by Prof. Zaiwen Wen, formalized complex mathematical proofs using formal verification system lean4
   * Implemented rigorous mathematical theorems in computer-assisted proof systems, focusing on complex analysis
@@ -41,6 +41,12 @@ Intern experience
   * Developed theoretical models for financial markets under supervision of Dr. Song Hao
   * Applied statistical learning theory to analyze market behavior
   * Implemented and validated mathematical models for option pricing
+ 
+
+
+Peer Review
+======
+* Emergency Technical Reviewer for Reinforcement Learning Conference (RLC) 2025
 
 Skills and Awards
 ======
