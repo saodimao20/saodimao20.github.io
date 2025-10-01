@@ -50,7 +50,7 @@ Intern experience
 Publications
 ======
 
-[Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
+[arXiv 2025][Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
 **Xinyu Liu**, Zixuan Xie, Shangtong Zhang
 
 [NeurIPS 2025][Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391)
@@ -59,7 +59,7 @@ Zixuan Xie\*, **Xinyu Liu\***, Rohan Chandra, Shangtong Zhang
 [ICML 2025][Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254v4)
 **Xinyu Liu\***, Zixuan Xie\*, Shangtong Zhang
 
-[Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
+[arXiv 2024][Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
 Xiaochi Qian\*, Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
 
 
