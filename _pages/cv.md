@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
-[Find pdf version here](https://github.com/user-attachments/files/22568533/CV-4.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/22630341/CV-9.pdf)
 
 ======
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
@@ -48,6 +49,9 @@ Intern experience
  
 Publications
 ======
+
+[Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
+**Xinyu Liu**, Zixuan Xie, Shangtong Zhang
 
 [NeurIPS 2025][Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://www.arxiv.org/abs/2411.13711)
 Zixuan Xie\*, **Xinyu Liu\***, Rohan Chandra, Shangtong Zhang
