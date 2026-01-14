@@ -9,9 +9,9 @@ redirect_from:
 
 
 {% include base_path %}
-[Find pdf version here](https://github.com/user-attachments/files/22630341/CV-9.pdf)
-
+[Find pdf version here](https://github.com/user-attachments/files/24613173/CV.Xinyu.Liu.pdf)
 ======
+
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
   * Major courses: Natural Language Processing, Learning for Interactive Robots, Machine learning, Software logic, etc.
 
@@ -21,28 +21,28 @@ redirect_from:
 
 Research experience
 ======
-* Sequential Intelligence Lab at University of Virginia (Aug.2024-Now)
+* Sequential Intelligence Lab, University of Virginia (Aug.2024-Now)
   * Conducting theoretical research on convergence analysis of reinforcement learning algorithms under supervision of Prof. Shangtong Zhang
   * Developing mathematical frameworks for proving $L^2$ and almost sure convergence of reinforcement learning methods
   * Analyzing convergence rates of stochastic approximation algorithms with Markovian noise
   
-* Mathematics in Lean (Aug.2023-Jun.2024)
+* Mathematics in Lean, Peking University (Aug.2023-Jun.2024)
   * Led by Prof. Zaiwen Wen, formalized complex mathematical proofs using formal verification system lean4
   * Implemented rigorous mathematical theorems in computer-assisted proof systems, focusing on complex analysis
  
-* Autonomous Robots Lab (ARL) (Feb 2023 – May 2023)
+* Autonomous Robots Lab (ARL), Peking University (Feb 2023 – May 2023)
   * Under supervision of Prof. Chang Liu at Autonomous Robots Lab
   * Provided mathematical consultation for robotics research
   * Applied optimization theory to improve robotic system performance
  
-* Dynamic System (Jun.2022-Feb.2023)
+* Dynamic System, Peking University (Jun.2022-Feb.2023)
   * Conducted research in dynamical systems theory under guidance of Prof. Zhiqiang Li
   * Analyzed mathematical properties of expanding maps and conformal fractals
   * Presented theoretical findings on conformal dynamics in research seminars
 
 Intern experience
 ======
-* Summer 2023: Founder Securities
+* Quantitative Research Intern, Founder Securities (Jul 2023 – Sep 2023)
   * Developed theoretical models for financial markets under supervision of Dr. Song Hao
   * Applied statistical learning theory to analyze market behavior
   * Implemented and validated mathematical models for option pricing
@@ -62,10 +62,15 @@ Zixuan Xie\*, **Xinyu Liu\***, Rohan Chandra, Shangtong Zhang
 [arXiv 2024][Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
 Xiaochi Qian\*, Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
 
+Teaching Assistantships
+======
+* Reinforcement Learning (Fall 2025, University of Virginia): hosted office hours and graded assignments.
 
 Peer Review
 ======
 * Emergency Technical Reviewer for Reinforcement Learning Conference (RLC) 2025
+* Emergency Reviewer for International Conference on Learning Representations (ICLR) 2026
+* Reviewer for International Conference on Artificial Intelligence and Statistics (AISTAT) 2026
 
 Skills and Awards
 ======
