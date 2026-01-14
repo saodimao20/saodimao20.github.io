@@ -9,7 +9,7 @@ redirect_from:
 
 
 {% include base_path %}]
-[Find pdf version here](https://github.com/user-attachments/files/24613250/CV.XInyu.Liu.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/24614336/CV.Xinyu.Liu.pdf)
 
 ======
 
