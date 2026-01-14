@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
-{% include base_path %}
-[Find pdf version here](https://github.com/user-attachments/files/24613173/CV.Xinyu.Liu.pdf)
+{% include base_path %}]
+[Find pdf version here](https://github.com/user-attachments/files/24613250/CV.XInyu.Liu.pdf)
+
 ======
 
 * PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
