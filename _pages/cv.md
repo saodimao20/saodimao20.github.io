@@ -9,7 +9,9 @@ redirect_from:
 
 
 {% include base_path %}]
-[Find pdf version here](https://github.com/user-attachments/files/24614336/CV.Xinyu.Liu.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/25114685/CV-9.pdf)
+
+
 
 ======
 
@@ -50,6 +52,9 @@ Intern experience
  
 Publications
 ======
+
+[arXiv 2026][MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561)
+**Xinyu Liu**, Zixuan Xie, Amir Moeini, Claire Chen, Shuze Daniel Liu, Yu Meng, Aidong Zhang, Shangtong Zhang
 
 [arXiv 2025][Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
 **Xinyu Liu**, Zixuan Xie, Shangtong Zhang
