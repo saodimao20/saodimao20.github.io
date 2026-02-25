@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student in the Department of Computer Science at the University of Virginia. I am fortunately advised by [Prof. Shangtong Zhang](http://shangtongzhang.github.io) and join [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab). I received my Bachelor degree in School of Mathematical Science, Peking University, where I was supervised by [Prof. Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/) in second and third year and [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/group.html) in the last year. Currently my research interest lies in the theoretical guarantee of reinforcement learning.
+Hi! I am a second-year Ph.D. candidate in the Department of Computer Science at the University of Virginia. I am fortunately advised by [Prof. Shangtong Zhang](http://shangtongzhang.github.io) and join [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab). I received my Bachelor degree in School of Mathematical Science, Peking University, where I was supervised by [Prof. Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/) in second and third year and [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/group.html) in the last year. Currently my research interest lies in the theoretical guarantee of reinforcement learning.
 
 Publications
 ======
