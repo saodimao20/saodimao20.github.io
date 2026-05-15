@@ -33,11 +33,6 @@ Research experience
   * Led by Prof. Zaiwen Wen, formalized complex mathematical proofs using formal verification system lean4
   * Implemented rigorous mathematical theorems in computer-assisted proof systems, focusing on complex analysis
  
-* Autonomous Robots Lab (ARL), Peking University (Feb 2023 – May 2023)
-  * Under supervision of Prof. Chang Liu at Autonomous Robots Lab
-  * Provided mathematical consultation for robotics research
-  * Applied optimization theory to improve robotic system performance
- 
 * Dynamic System, Peking University (Jun.2022-Feb.2023)
   * Conducted research in dynamical systems theory under guidance of Prof. Zhiqiang Li
   * Analyzed mathematical properties of expanding maps and conformal fractals
@@ -53,7 +48,22 @@ Intern experience
 Publications
 ======
 
-[arXiv 2026][MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561)
+[arXiv 2026][Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104)
+**Xinyu Liu**, Zixuan Xie, Shangtong Zhang
+
+[arXiv 2026][MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147)
+Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
+
+[arXiv 2026][Beyond Linear Attention: Softmax Transformers Implement In-Context Reinforcement Learning](https://arxiv.org/abs/2605.07333)
+Zixuan Xie, **Xinyu Liu**, Claire Chen, Shuze Daniel Liu, Rohan Chandra, Shangtong Zhang
+
+[arXiv 2026][Convergence and Emergence of In-Context Reinforcement Learning with Chain of Thought](https://arxiv.org/abs/2605.07123)
+Zixuan Xie, **Xinyu Liu**, Shangtong Zhang
+
+[ICML 2026][Offline Two-Player Zero-Sum Markov Games with KL Regularization](http://arxiv.org/abs/2605.13025)
+Claire Chen, Yuheng Zhang, **Xinyu Liu**, Zixuan Xie, Shuze Daniel Liu, Nan Jiang
+
+[ICML 2026][MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561)
 **Xinyu Liu**, Zixuan Xie, Amir Moeini, Claire Chen, Shuze Daniel Liu, Yu Meng, Aidong Zhang, Shangtong Zhang
 
 [arXiv 2025][Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
@@ -74,6 +84,8 @@ Teaching Assistantships
 
 Peer Review
 ======
+* Reviewer for International Conference on Machine Learning (ICML) 2026 (\textbf{Sliver Reviewer})
+* Reviewer for Reinforcement Learning Conference (RLC) 2026
 * Emergency Technical Reviewer for Reinforcement Learning Conference (RLC) 2025
 * Emergency Reviewer for International Conference on Learning Representations (ICLR) 2026
 * Reviewer for International Conference on Artificial Intelligence and Statistics (AISTAT) 2026
