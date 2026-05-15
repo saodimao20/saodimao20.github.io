@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "CV"
@@ -9,7 +10,7 @@ redirect_from:
 
 
 {% include base_path %}]
-[Find pdf version here](https://github.com/user-attachments/files/25114685/CV-9.pdf)
+[Find pdf version here](https://github.com/user-attachments/files/27822654/CV-4.pdf)
 
 
 
@@ -84,7 +85,7 @@ Teaching Assistantships
 
 Peer Review
 ======
-* Reviewer for International Conference on Machine Learning (ICML) 2026 (\textbf{Sliver Reviewer})
+* Reviewer for International Conference on Machine Learning (ICML) 2026 (**Sliver Reviewer**)
 * Reviewer for Reinforcement Learning Conference (RLC) 2026
 * Emergency Technical Reviewer for Reinforcement Learning Conference (RLC) 2025
 * Emergency Reviewer for International Conference on Learning Representations (ICLR) 2026
