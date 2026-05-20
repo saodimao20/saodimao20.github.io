@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I'm big fan of Batman, planning to cos Red Hood at nycc 2025! 
+I'm fan of The Legend of Luo Xiaohei, Jujutsu Kaisen, Batman, Journey to the West (2021 film), ...
+
+I cosplayed Red Hood aka Jason Todd at NC Comicon 2025 and cp32! 
