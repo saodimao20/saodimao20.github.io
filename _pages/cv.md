@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -8,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-{% include base_path %}]
 [Find pdf version here](https://github.com/user-attachments/files/27822654/CV-4.pdf)
 
 
