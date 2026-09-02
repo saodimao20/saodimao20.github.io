@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. candidate in the Department of Computer Science at the University of Virginia. I am fortunately advised by [Prof. Shangtong Zhang](http://shangtongzhang.github.io) and join [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab). I received my Bachelor degree in School of Mathematical Science, Peking University, where I was supervised by [Prof. Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/) in second and third year and [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/group.html) in the last year. Currently my research interest lies in the theoretical guarantee of decision-making algorithms and formal mathematics.
+Hi! I am a third-year Ph.D. candidate in the Department of Computer Science at the University of Virginia. I am fortunately advised by [Prof. Shangtong Zhang](http://shangtongzhang.github.io) and join [Sequential Intelligence Lab(SIL)](https://github.com/Sequential-Intelligence-Lab). I received my Bachelor degree in School of Mathematical Science, Peking University, where I was supervised by [Prof. Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/) in second and third year and [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/group.html) in the last year. Currently my research interest lies in the theoretical guarantee of decision-making algorithms and formal mathematics.
 
 News
 ======
+
+2026/08: Honor to win the Excellence Award in the Alibaba Intern AI Innovation Competition with team Dargo Joe!
+
+2026/06: I join Alibaba Cloud as a research intern for the summer!
 
 2026/06: I am rated as silver reviewer in ICML 2026!
 
