@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Find pdf version here](https://github.com/user-attachments/files/33230140/CV.1.pdf)
-
+[Find pdf version here](https://github.com/user-attachments/files/33261389/CV.2.pdf)
 
 
 ======
@@ -84,6 +83,8 @@ Teaching Assistantships
 
 Peer Review
 ======
+* Reviewer for Neural Information Processing Systems[CV (2).pdf](https://github.com/user-attachments/files/33261386/CV.2.pdf)
+ (NeurIPS) 2026 (**Top Reviewer**)
 * Reviewer for International Conference on Machine Learning (ICML) 2026 (**Sliver Reviewer**)
 * Reviewer for Reinforcement Learning Conference (RLC) 2026
 * Emergency Technical Reviewer for Reinforcement Learning Conference (RLC) 2025
