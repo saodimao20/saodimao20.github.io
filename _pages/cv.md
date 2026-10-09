@@ -48,10 +48,10 @@ Intern experience
 Publications
 ======
 
-[arXiv 2026][Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104)
+[NeurIPS 2026][Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104)
 **Xinyu Liu**, Zixuan Xie, Shangtong Zhang
 
-[arXiv 2026][MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147)
+[NeurIPS 2026][MathlibPR: Pull Request Merge-Readiness Benchmark for Formal Mathematical Libraries](https://arxiv.org/abs/2605.07147)
 Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
 
 [arXiv 2026][Beyond Linear Attention: Softmax Transformers Implement In-Context Reinforcement Learning](https://arxiv.org/abs/2605.07333)
