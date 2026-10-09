@@ -12,7 +12,9 @@ Hi! I am a third-year Ph.D. candidate in the Department of Computer Science at t
 News
 ======
 
-2026/09: Two papers are accepted by NeurIPS 2026.
+2026/10: I am rated as top reviewer in NeurIPS 2026!
+
+2026/09: Two papers are accepted by NeurIPS 2026!
 
 2026/08: Honor to win the Excellence Award in the Alibaba Intern AI Innovation Competition with team Dargo Joe!
 
@@ -20,13 +22,13 @@ News
 
 2026/06: I am rated as silver reviewer in ICML 2026!
 
-2026/04: Two papers are accepted by ICML 2026.
+2026/04: Two papers are accepted by ICML 2026!
 
 2026/02: I complete my PhD Qualifying Exam and become a PhD candidate!
 
-2025/09: One papers is accepted by NeurIPS 2025.
+2025/09: One papers is accepted by NeurIPS 2025!
 
-2025/05: One paper is accepted by ICML 2025.
+2025/05: One paper is accepted by ICML 2025!
 
 2024/09: I become a PhD student at UVA!
 
