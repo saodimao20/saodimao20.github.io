@@ -12,6 +12,8 @@ Hi! I am a third-year Ph.D. candidate in the Department of Computer Science at t
 News
 ======
 
+2026/09: Two papers are accepted by NeurIPS 2026.
+
 2026/08: Honor to win the Excellence Award in the Alibaba Intern AI Innovation Competition with team Dargo Joe!
 
 2026/06: I join Alibaba Cloud as a research intern for the summer!
