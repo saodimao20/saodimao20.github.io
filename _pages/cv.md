@@ -14,7 +14,7 @@ redirect_from:
 
 ======
 
-* PhD student in Department of Computer Science in University of Virginia, Sep 2024 – May 2029
+* PhD student in Department of Computer Science in University of Virginia, Sep 2024 – Present
   * Major courses: Natural Language Processing, Learning for Interactive Robots, Machine learning, Software logic, etc.
 
 * B.S. in School of Mathematical Science, Peking University, Sep 2020 – Jul 2024
