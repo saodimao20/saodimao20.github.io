@@ -11,6 +11,7 @@ Hi! I am a third-year Ph.D. candidate in the Department of Computer Science at t
 
 News
 ======
+2026/11: Two papers are accepted by JMLR 2026!
 
 2026/10: I am rated as top reviewer in NeurIPS 2026!
 
