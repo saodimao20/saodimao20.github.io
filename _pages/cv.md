@@ -47,6 +47,12 @@ Intern experience
 Publications
 ======
 
+[JMLR 2026][Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
+**Xinyu Liu**, Zixuan Xie, Shangtong Zhang
+
+[JMLR 2026][Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
+Xiaochi Qian\*, Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
+
 [NeurIPS 2026][Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](https://arxiv.org/abs/2605.07104)
 **Xinyu Liu**, Zixuan Xie, Shangtong Zhang
 
@@ -65,17 +71,12 @@ Claire Chen, Yuheng Zhang, **Xinyu Liu**, Zixuan Xie, Shuze Daniel Liu, Nan Jian
 [ICML 2026][MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](https://arxiv.org/abs/2602.02561)
 **Xinyu Liu**, Zixuan Xie, Amir Moeini, Claire Chen, Shuze Daniel Liu, Yu Meng, Aidong Zhang, Shangtong Zhang
 
-[JMLR 2026][Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning](https://arxiv.org/abs/2509.26442)
-**Xinyu Liu**, Zixuan Xie, Shangtong Zhang
-
 [NeurIPS 2025][Finite Sample Analysis of Linear Temporal Difference Learning with Arbitrary Features](https://arxiv.org/abs/2505.21391)
 Zixuan Xie\*, **Xinyu Liu\***, Rohan Chandra, Shangtong Zhang
 
 [ICML 2025][Linear $Q$-Learning Does Not Diverge in $L^2$: Convergence Rates to a Bounded Set](https://arxiv.org/abs/2501.19254v4)
 **Xinyu Liu\***, Zixuan Xie\*, Shangtong Zhang
 
-[JMLR 2026][Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise](https://arxiv.org/abs/2411.13711)
-Xiaochi Qian\*, Zixuan Xie\*, **Xinyu Liu\***, Shangtong Zhang
 
 Teaching Assistantships
 ======
